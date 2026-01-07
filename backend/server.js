@@ -19,7 +19,7 @@ const ACTIVITY_FIELDS = {
 // Middleware
 const allowedOrigins = [
   'http://localhost:3000',
-  'https://productivity-tracker-2026.vercel.app',
+  'https://productivity-tacker-piyu-2026.vercel.app/',
   process.env.FRONTEND_URL
 ].filter(Boolean);
 
